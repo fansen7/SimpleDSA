@@ -1,5 +1,5 @@
 # SimpleDSA
 
-usage
+usage:
 
 python3 SimpleDSA.py
